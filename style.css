@@ -141,6 +141,14 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
+.mySelf {
+	font-weight: bold;
+}
+
+.conference {
+	font-style: italic;
+}
+
 .keySkills {
 	list-style-type: none;
 	-moz-column-count:3;
